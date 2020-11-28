@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606525516587.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2913551322",
+    "id" : "E3731D7",
+    "lastKnownWriteTime" : 1605556148,
+    "last_content_update" : 1606525559692,
+    "path" : "C:/Users/james/Desktop/UCSD/BIMM143/week06/mini-project/mini-project.Rmd",
+    "project_path" : "mini-project.Rmd",
+    "properties" : {
+        "cursorPosition" : "64,17",
+        "scrollLine" : "32",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
