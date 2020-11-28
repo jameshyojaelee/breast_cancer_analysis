@@ -1,4 +1,4 @@
-# breast_cancer_analysis
+# Breast Cancer Analysis
 ### Unsupervised Learning Analysis of Human Breast Cancer Cells
 
 *This mini-project is part of UC San Diego's BIMM143 coursework *
