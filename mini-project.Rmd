@@ -64,7 +64,6 @@ head(wisc.df)
 # 2. Principal Component Analysis
 ## Performing PCA
 
-
 ```{r}
 # Check column means and standard deviations
 colMeans(wisc.data)
